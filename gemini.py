@@ -2822,4 +2822,4 @@ if __name__ == '__main__':
     if not account_manager.accounts:
         print("[!] 警告: 没有配置任何账号")
     
-    app.run(host='0.0.0.0', port=8000, debug=False)
+    app.run(host='0.0.0.0', port=8080, debug=False)
